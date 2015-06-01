@@ -62,21 +62,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 
-/*
- * 
-База данных:	voron249_timetable
-Хост:	localhost
-Имя пользователя:	voron249_guest
-Пароль:	qn98o7y1287n
- * 
- */
-
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => 'root',
-	'database' => 'timetable',
+	'database' => 'timecontrol-demo',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
