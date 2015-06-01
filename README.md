@@ -1,4 +1,5 @@
-# Timetable-script
+# «Time Control» script.
+ALPHA unstable !!
 
 -------------------------
 
